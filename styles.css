@@ -1,1 +1,44 @@
 
+body{
+    background-color: rgb(39, 151, 127);
+    color:White;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+}
+
+
+h1{
+    background-color: rgb(0, 70, 60);
+    width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    border-left: 7px double white;
+    border-right: 7px double white;
+    border-bottom: 7px double white;
+    text-align: center;
+    font-size: 3em;
+}
+
+h2{
+    font-size: 1.25em;
+    text-align: center;
+
+}
+
+h3{
+    border: solid 3px white;
+   
+    padding: 10;
+    text-align: center
+    width: 800px;
+
+
+}
+
+#sidebar{
+background-color: cornflowerblue;
+border: 3px solid white;
+margin: 30px 15px 15px;
+float:right;
+
+}
